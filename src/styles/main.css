@@ -1,0 +1,12 @@
+:root {
+  --f7-theme-color: #007aff;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.text-align-center {
+  text-align: center;
+}
